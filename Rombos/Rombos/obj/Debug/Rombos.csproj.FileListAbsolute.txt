@@ -1,0 +1,6 @@
+D:\Proyectos\C-sharp\Rombos\Rombos\bin\Debug\Rombos.exe.config
+D:\Proyectos\C-sharp\Rombos\Rombos\bin\Debug\Rombos.exe
+D:\Proyectos\C-sharp\Rombos\Rombos\bin\Debug\Rombos.pdb
+D:\Proyectos\C-sharp\Rombos\Rombos\obj\Debug\Rombos.csprojResolveAssemblyReference.cache
+D:\Proyectos\C-sharp\Rombos\Rombos\obj\Debug\Rombos.exe
+D:\Proyectos\C-sharp\Rombos\Rombos\obj\Debug\Rombos.pdb
