@@ -1,0 +1,10 @@
+D:\Proyectos\C-sharp\BD\BD\bin\Debug\BD.exe.config
+D:\Proyectos\C-sharp\BD\BD\bin\Debug\BD.exe
+D:\Proyectos\C-sharp\BD\BD\bin\Debug\BD.pdb
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.Form1.resources
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.Properties.Resources.resources
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.exe
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.pdb
+D:\Proyectos\C-sharp\BD\BD\obj\Debug\BD.usuario.resources
