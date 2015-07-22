@@ -1,0 +1,5 @@
+D:\Proyectos\C-sharp\Sockets\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Proyectos\C-sharp\Sockets\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Proyectos\C-sharp\Sockets\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Proyectos\C-sharp\Sockets\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Proyectos\C-sharp\Sockets\Cliente\Cliente\obj\Debug\Cliente.pdb

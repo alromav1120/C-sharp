@@ -1,0 +1,6 @@
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\bin\Debug\coneccionsocket.exe.config
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\bin\Debug\coneccionsocket.exe
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\bin\Debug\coneccionsocket.pdb
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\obj\Debug\coneccionsocket.csprojResolveAssemblyReference.cache
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\obj\Debug\coneccionsocket.exe
+D:\Proyectos\C-sharp\coneccionsocket\coneccionsocket\obj\Debug\coneccionsocket.pdb

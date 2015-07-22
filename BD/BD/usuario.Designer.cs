@@ -54,9 +54,9 @@
             this.button3 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.personaBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.usuariosDataSet = new BD.usuariosDataSet();
             this.usuariosDataSetBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.usuariosDataSet = new BD.usuariosDataSet();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.personaTableAdapter = new BD.usuariosDataSetTableAdapters.personaTableAdapter();
             this.usuariosDataSetBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.productoBindingSource = new System.Windows.Forms.BindingSource(this.components);
@@ -65,9 +65,9 @@
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.personaBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSetBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSetBindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.productoBindingSource)).BeginInit();
             this.SuspendLayout();
@@ -96,7 +96,7 @@
             this.toolStripLabel5});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(479, 35);
+            this.toolStrip1.Size = new System.Drawing.Size(487, 35);
             this.toolStrip1.TabIndex = 1;
             this.toolStrip1.Text = "toolStrip1";
             this.toolStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.toolStrip1_ItemClicked);
@@ -278,6 +278,16 @@
             this.personaBindingSource.DataMember = "persona";
             this.personaBindingSource.DataSource = this.usuariosDataSetBindingSource;
             // 
+            // usuariosDataSetBindingSource
+            // 
+            this.usuariosDataSetBindingSource.DataSource = this.usuariosDataSet;
+            this.usuariosDataSetBindingSource.Position = 0;
+            // 
+            // usuariosDataSet
+            // 
+            this.usuariosDataSet.DataSetName = "usuariosDataSet";
+            this.usuariosDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // dataGridView2
             // 
             this.dataGridView2.AllowUserToAddRows = false;
@@ -288,16 +298,6 @@
             this.dataGridView2.Size = new System.Drawing.Size(434, 121);
             this.dataGridView2.TabIndex = 15;
             this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
-            // 
-            // usuariosDataSet
-            // 
-            this.usuariosDataSet.DataSetName = "usuariosDataSet";
-            this.usuariosDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // usuariosDataSetBindingSource
-            // 
-            this.usuariosDataSetBindingSource.DataSource = this.usuariosDataSet;
-            this.usuariosDataSetBindingSource.Position = 0;
             // 
             // personaTableAdapter
             // 
@@ -331,7 +331,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(479, 251);
+            this.ClientSize = new System.Drawing.Size(487, 251);
             this.Controls.Add(this.Actualizar);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.dataGridView1);
@@ -357,9 +357,9 @@
             this.toolStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.personaBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSetBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.usuariosDataSetBindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.productoBindingSource)).EndInit();
             this.ResumeLayout(false);
